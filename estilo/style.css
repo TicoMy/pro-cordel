@@ -63,6 +63,7 @@ section.img{
 }
 
 section.img > p{
+  color: white;
   display: inline-block;
   border-radius: 5px;
   background-color: rgba(86, 86, 86, 0.172);
